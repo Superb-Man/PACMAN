@@ -1,5 +1,8 @@
 # PACPACMAN
 Classic Pacman Remake. with different level and mazes!
+# Being sorry
+Unfortunately I've lost the source codes of my game due to new account and removing the previous account out of frustration.Its sad ,I'd invested a lot of time behind this project and at last i didn't have the proof of my efforts.
+Anyone reading or seeing this remember one thing.Don't lose your hope and assist your frustration taking control over you.However , i still got the exe files by grace of almighty.I know its nothing comapring big projects.But it meant a lot to me once
 # Shots 
 ![Screenshot_20210730-103319_Video Player-1](https://github.com/Superb-Man/PACPACMAN/assets/104999005/6ecae3eb-a503-48e3-b556-300903f3e6ca)
 ![Screenshot_20210730-103326_Video Player-1](https://github.com/Superb-Man/PACPACMAN/assets/104999005/903e03c5-070f-435a-a4d3-7801886daf2d)
